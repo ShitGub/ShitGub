@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShitGub
+- 👋 Hi, I’m @SpiralSkinmouse
 - 👀 I’m interested in transcendental black metal and saturn time cube theory.
-- 🌱 I’m currently learning mafs
-- 💞️ I’m looking to collaborate on code
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me: send a smoke signal - if the fire bird flies southward i am in grave danger.
 
 <!---
